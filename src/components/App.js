@@ -1,7 +1,17 @@
 import React from 'react'
 
 const App = () => {
-    return <div>App</div>
+    return(
+        <div>
+            <h1>what this website needs</h1> 
+            
+            <h2>nav bar</h2>
+            <h3>fotter with </h3>
+            <p> home/about/transport services/packing services/Contact page</p>
+            
+        </div>
+                
+        ) 
 }
 
 export default App
