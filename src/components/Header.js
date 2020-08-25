@@ -3,7 +3,14 @@ import styled from 'styled-components';
 
 
 const Header = () => {
-     return <MainContainer>Header</MainContainer>
+     return (
+     <MainContainer>
+          <h1>
+               this header image can be changed <br/>
+               but why would you?
+          </h1>
+     </MainContainer>
+     );
 };
 
 export default Header;
