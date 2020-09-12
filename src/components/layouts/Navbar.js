@@ -1,11 +1,13 @@
 import React from 'react'
 import styled from 'styled-components'
+import logo from '../shaqfu.png'
 
 export const Navbar = () => {
     return (
         <NavbarContainer>
             <nav className="navbar navbar-expand-lg navbar-light">
   <a className="navbar-brand" href="#">Navbar</a>
+  <img src={logo} alt="logo"/>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"></span>
   </button>
