@@ -34,5 +34,8 @@ export default Navbar
 const NavbarContainer = styled.div`
 
 background: var(--dark-green);
+.nav-link {
+  color: #fff !important;
+}
 
 `;
