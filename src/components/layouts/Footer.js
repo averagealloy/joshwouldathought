@@ -1,9 +1,17 @@
-
-import React from 'react';
+import React from 'react'
+import styled from 'styled-components'
 
 const Footer = () => {
-     return <div>Footer</div>
-};
+     return <FooterContainer></FooterContainer>
+}
 
-export default Footer;
+export default Footer
 
+// footer container 
+
+const FooterContainer = styled.footer`
+
+background: #344;
+height: 4rem; 
+
+`;
