@@ -5,7 +5,7 @@ import logo from '../shaqfu.png'
 export const Navbar = () => {
     return (
         <NavbarContainer>
-            <nav className="navbar navbar-expand-lg navbar-light">
+            <nav className="navbar navbar-expand-lg navbar-light px-5 py-0">
             <a className="navbar-brand" href="#">Navbar</a>
             <img  style={{width: '50px'}} src={logo} alt="logo"/>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
