@@ -5,7 +5,7 @@ import Navbar from './layouts/Navbar'
 
 import './App.css'
 import "bootstrap/dist/css/bootstrap.min.css";
-// import Footer from './layouts/Footer';
+
 
 const App = () => {
     return(
