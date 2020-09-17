@@ -1,20 +1,23 @@
 import React from 'react'
-import Header from './Header'
-import Footer from './Footer'
+import Header from './layouts/Header'
+import Footer from './layouts/Footer'
+import Navbar from './layouts/Navbar'
+
 import './App.css'
 import "bootstrap/dist/css/bootstrap.min.css";
-import Navbar from './layouts/Navbar'
+// import Footer from './layouts/Footer';
 
 const App = () => {
     return(
         <div>
             <Header/>
             <Navbar/>
-            <br/>
-            
-            <br/>
-            
             <Footer/>
+            <br/>
+            
+            <br/>
+            
+            
             
         </div>
         
