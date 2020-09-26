@@ -16,6 +16,10 @@ export const Navbar = () => {
               Contact
             </button>
 
+            <button>
+              Home
+            </button>
+
 
 
 
