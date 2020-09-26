@@ -18,7 +18,7 @@ export const Navbar = () => {
 
 
             <button>
-              Packing services
+              transport services
             </button>
             
           
