@@ -12,6 +12,13 @@ export const Navbar = () => {
             <span className="navbar-toggler-icon"></span>
             </button>
 
+            <button>
+              Contact
+            </button>
+
+
+
+
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
               <ul className="navbar-nav ml-auto">
                 <li className="nav-item active">
