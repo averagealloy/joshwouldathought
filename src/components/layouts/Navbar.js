@@ -13,16 +13,26 @@ export const Navbar = () => {
             </button>
 
             <button>
-              Contact
-            </button>
-
-            <button>
               Home
             </button>
+
 
             <button>
               Packing services
             </button>
+            
+          
+             <button>
+              packing services
+            </button>
+            
+            
+            
+            <button>
+              Contact
+            </button>
+
+
 
 
 
