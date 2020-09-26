@@ -20,6 +20,10 @@ export const Navbar = () => {
               Home
             </button>
 
+            <button>
+              Packing services
+            </button>
+
 
 
 
